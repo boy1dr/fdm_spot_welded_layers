@@ -8,3 +8,6 @@ Had a little problem calculating the extrusion volume so the flowrate adjustment
 Youtube vdeo to follow shortly.
 
 Please use caution as this is an experimental process. It works perfectly for me on an i3 clone 3d printer with repetier firmware.
+
+
+![alt text](https://raw.githubusercontent.com/boy1dr/fdm_spot_welded_layers/master/script.PNG "The script")
