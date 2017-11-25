@@ -5,7 +5,8 @@ Appears to add about 20% extra strength but more testing is required to know exa
 
 Had a little problem calculating the extrusion volume so the flowrate adjustment was added to get it close to correct.
 
-Youtube vdeo to follow shortly.
+See it in action on youtube   https://youtu.be/Om2sPvlqiZs
+
 
 Please use caution as this is an experimental process. It works perfectly for me on an i3 clone 3d printer with repetier firmware.
 
