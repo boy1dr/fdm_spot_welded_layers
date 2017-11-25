@@ -12,3 +12,6 @@ Please use caution as this is an experimental process. It works perfectly for me
 ---
 
 ![alt text](https://raw.githubusercontent.com/boy1dr/fdm_spot_welded_layers/master/script.PNG "The script")
+
+---
+![alt text](https://raw.githubusercontent.com/boy1dr/fdm_spot_welded_layers/master/layer.png "An example layer")
